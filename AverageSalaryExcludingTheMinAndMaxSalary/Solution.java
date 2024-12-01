@@ -1,5 +1,7 @@
 package Leetcode.AverageSalaryExcludingTheMinAndMaxSalary;
 
+// runtime 0ms
+// time complexity O(N)
 public class Solution {
     public double average(int[] salary) {
         int sum = 0;
