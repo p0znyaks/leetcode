@@ -1,4 +1,4 @@
-package Leetcode.GetConcatenation;
+package Leetcode.ConcatenationOfArray;
 
 // runtime 0ms
 // time complexity O(N)
